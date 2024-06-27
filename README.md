@@ -1,8 +1,9 @@
 Hi, my name is Artem
 =
-C# junior developer
+C# developer
 
-try to learn c\c++
+Все проекты что тут есть это ересь которую нельзя смотреть.
+В скором времени может быть а может нет что-то буду заливать помимо ъерни
 
 Contacts
 =
